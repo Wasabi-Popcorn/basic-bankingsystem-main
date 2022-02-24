@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "6202f2d37fc0edb1bc3cd8d5",
+    "name": "Alex",
+    "email": "alexmax@gmail.com",
+    "currentBalance": 943,
+    "createdAt": "2022-02-08T22:46:43.556Z",
+    "updatedAt": "2022-02-23T12:33:55.506Z",
+    "__v": 0
+  },
+  {
+    "_id": "6202f2b47fc0edb1bc3cd8d2",
+    "name": "Matthew",
+    "email": "mattbruce@gmail.com",
+    "currentBalance": 5089,
+    "createdAt": "2022-02-08T22:46:12.528Z",
+    "updatedAt": "2022-02-20T15:04:40.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "6202f3457fc0edb1bc3cd8de",
+    "name": "Cheng",
+    "email": "chengshi@gmail.com",
+    "currentBalance": 10078,
+    "createdAt": "2022-02-08T22:48:37.037Z",
+    "updatedAt": "2022-02-23T08:10:37.780Z",
+    "__v": 0
+  },
+  {
+    "_id": "6202f2f87fc0edb1bc3cd8d8",
+    "name": "Mary",
+    "email": "marykai@gmail.com",
+    "currentBalance": 9990,
+    "createdAt": "2022-02-08T22:47:20.880Z",
+    "updatedAt": "2022-02-23T12:40:59.109Z",
+    "__v": 0
+  },
+  {
+    "_id": "6202f31c7fc0edb1bc3cd8db",
+    "name": "Paul",
+    "email": "paultom@gmail.com",
+    "currentBalance": 3600,
+    "createdAt": "2022-02-08T22:47:56.325Z",
+    "updatedAt": "2022-02-23T12:33:55.592Z",
+    "__v": 0
+  },
+  {
+    "_id": "6202f3797fc0edb1bc3cd8e2",
+    "name": "Max",
+    "email": "maxchris@gmail.com",
+    "currentBalance": 7530,
+    "createdAt": "2022-02-08T22:49:29.608Z",
+    "updatedAt": "2022-02-19T16:14:55.984Z",
+    "__v": 0
+  },
+  {
+    "_id": "6203d2fd468ba6711adc32d7",
+    "name": "Zeinab",
+    "email": "zeinabahmed@gmail.com",
+    "currentBalance": 4600,
+    "createdAt": "2022-02-09T14:43:09.613Z",
+    "updatedAt": "2022-02-23T12:40:59.663Z",
+    "__v": 0
+  }
+]
